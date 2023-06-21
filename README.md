@@ -1,6 +1,9 @@
 # cs415MongoProject
 
 Problem Statement
+[Project - Library _1_.pdf](https://github.com/samueldesalegn/cs415MongoProject/files/11823943/Project.-.Library._1_.pdf)
+
+
 Analyze, Design and Implement Database Solution for 
 the City of Fairfield Public Libraries system 
 For this Project task, you are required to undertake Requirements Analysis, 
@@ -62,5 +65,6 @@ f. Check in Books
 g. Show the list of books that are checked out
 h. Show the list of books borrowed by member.
 i. Show the members that are in overdue list and the books they borrowed
-j. Show the amount of overdue to be paid by membe
+j. Show the amount of overdue to be paid by members
+
 
